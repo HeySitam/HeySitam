@@ -26,8 +26,8 @@
 
 <p align="left">
 <a href="http://twitter.com/HeySitam" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
-<a href="http://linkedin.com/in/heysitam" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
-<a href="http://youtube.com/c/codedroidfun9398" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/youtube.png" alt="" height="30" /></a>
+<a href="http://linkedin.com/in/heysitam" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" title = "Linkedin" alt="" height="30" /></a>
+<a href="http://youtube.com/c/codedroidfun9398" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/youtube.png" title = "Youtube" alt="" height="30" /></a>
 </p>
 
 
